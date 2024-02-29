@@ -4,6 +4,8 @@
 #include "TreeMap.hpp"
 #include "TreeSet.cpp"
 
+/*********** NOTE: FILE WORK IN PROGRESS (UNFINISHED) ***************************/
+
 template <typename TKey, typename TValue>
 TreeMap<TKey, TValue>::TreeMap() {
     // mock implementation
