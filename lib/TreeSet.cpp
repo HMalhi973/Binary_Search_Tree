@@ -306,7 +306,7 @@ bool TreeSet<T>::contains(T value) const {
         else{
             //if value we a re looking for is greater, then traverse on the right child of the 
             ////current node
-            checkValue = checkValue ->_right;
+            checkValue = checkValue->_right;
         }      
     }
     //return false if traversed entire list and not found
@@ -408,7 +408,7 @@ std::optional<T> TreeSet<T>::get(T value) const {
     while(checkValue != nullptr){
         //if the current node's valu matches the value we are looking for return true
         if(this->_comparator(value, checkValue->value) == 0){
-            return checkValue;
+            return checkValue->value;
         }
         else if(this->_comparator(value, checkValue->value) < 0){
             //if value we are looking for  is smaller than the value of the current node,

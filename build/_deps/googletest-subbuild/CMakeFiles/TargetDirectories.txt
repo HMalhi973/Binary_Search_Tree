@@ -1,3 +1,0 @@
-/Users/harwindermalhi/ecs36c/ecs36c-hw2/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/Users/harwindermalhi/ecs36c/ecs36c-hw2/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/Users/harwindermalhi/ecs36c/ecs36c-hw2/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
